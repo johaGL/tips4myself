@@ -26,7 +26,7 @@ and copy the content into settings.
 
  **as file has unusual name, do `ssh-add`** as follows:
  
-```ssh-add ~/.ssh.id_rsa202202``` 
+```ssh-add ~/.ssh/id_rsa202202``` 
 
 terminal messages:
 ```
